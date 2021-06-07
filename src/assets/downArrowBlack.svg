@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="18px" viewBox="0 0 30 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reparación" transform="translate(-706.000000, -972.000000)">
+            <rect id="Rectangle-Copy-2" fill="#F4F4F4" x="-4.54747351e-13" y="90" width="1440" height="934"></rect>
+            <path d="M721.010798,989.999963 C720.436748,990.003409 719.884996,989.766861 719.477423,989.342535 L706.519318,975.741365 C705.785508,974.841964 705.834845,973.501266 706.632565,972.663957 C707.430285,971.826648 708.707596,971.774863 709.564473,972.54509 L721.010798,984.536788 L732.435527,972.54509 C733.292404,971.774863 734.569715,971.826648 735.367435,972.663957 C736.165155,973.501266 736.214492,974.841964 735.480682,975.741365 L722.522577,989.342535 C722.120313,989.761325 721.57737,989.997421 721.010798,989.999963 Z" id="Shape" fill-opacity="0.9" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

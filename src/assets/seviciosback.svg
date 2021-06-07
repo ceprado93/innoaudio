@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="934px" viewBox="0 0 1440 934" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Rectangle Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reparación" transform="translate(0.000000, -90.000000)">
+            <rect id="Rectangle-Copy-2" fill="#F4F4F4" x="-4.54747351e-13" y="90" width="1440" height="934"></rect>
+            <text id="Distribución,-fabric" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="35" font-weight="300" line-spacing="45" fill="#000000">
+                <tspan x="339.76" y="549">Distribución, fabricación y reparación de audífonos</tspan>
+            </text>
+            <g id="Group-2" transform="translate(569.000000, 620.000000)">
+                <rect id="Rectangle" stroke="#000000" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="288" height="42"></rect>
+                <text id="CONTACTA-CON-NOSOTRO" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="45" fill="#000000">
+                    <tspan x="37.28" y="18">CONTACTA CON NOSOTROS</tspan>
+                </text>
+            </g>
+            <path d="M721.010798,989.999963 C720.436748,990.003409 719.884996,989.766861 719.477423,989.342535 L706.519318,975.741365 C705.785508,974.841964 705.834845,973.501266 706.632565,972.663957 C707.430285,971.826648 708.707596,971.774863 709.564473,972.54509 L721.010798,984.536788 L732.435527,972.54509 C733.292404,971.774863 734.569715,971.826648 735.367435,972.663957 C736.165155,973.501266 736.214492,974.841964 735.480682,975.741365 L722.522577,989.342535 C722.120313,989.761325 721.57737,989.997421 721.010798,989.999963 Z" id="Shape" fill-opacity="0.9" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
